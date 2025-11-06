@@ -1,0 +1,39 @@
+.container {
+    position: relative;
+}
+
+
+.lead {
+    text-align: center;
+    font-weight: bolder;
+    font-style: italic;
+}
+
+#az {
+    color: cadetblue;
+}
+
+.coolpic {
+    display: block;
+    margin: auto;
+    width: 50;
+}
+
+.winky {
+    position: absolute;
+    right: 50;
+}
+
+#va {
+    text-align:center;
+    font-weight: bold;
+    font-style:oblique;
+}
+
+#credentials {
+    position: absolute;
+    bottom: 0;
+    margin: auto;
+    width: 100;
+    font-style: oblique;
+}
